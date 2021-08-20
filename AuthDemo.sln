@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthDemo.Api", "AuthDemo.Api\AuthDemo.Api.csproj", "{F489E580-EDC7-4811-807A-B7F97261FA24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthDemo.Domain", "AuthDemo.Entities\AuthDemo.Domain.csproj", "{00E0C6EC-7F45-47EF-9087-93AD08DC42D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthDemo.Domain", "AuthDemo.Domain\AuthDemo.Domain.csproj", "{00E0C6EC-7F45-47EF-9087-93AD08DC42D7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthDemo.Application", "AuthDemo.Application\AuthDemo.Application.csproj", "{31A4E8AD-C338-4296-B91A-2F17DF89E0DB}"
 EndProject
